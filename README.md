@@ -10,6 +10,9 @@ See for yourself some examples!
 ![alt text](https://wow.zamimg.com/uploads/screenshots/normal/389945-gnome.jpg)
 ![alt text](https://wow.zamimg.com/uploads/screenshots/normal/858396-tauren.jpg)
 
+<img src="hhttps://wow.zamimg.com/uploads/screenshots/normal/389945-gnome.jpg" width="48">
+
+
 There is clearly a difference between these two images, the size of the characters, their colours, the texture of their skins.
 
 ![alt text](https://wow.zamimg.com/uploads/screenshots/normal/427531-humain.jpg)

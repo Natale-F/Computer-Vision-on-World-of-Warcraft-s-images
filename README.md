@@ -18,7 +18,7 @@ Human (Alliance)             |   Orc (Horde)
 :-------------------------:|:-------------------------:
 <img src="https://wow.zamimg.com/uploads/screenshots/normal/427531-humain.jpg" width="500" height="400"> | <img src="https://wow.zamimg.com/uploads/screenshots/normal/438665-orc.jpg" width="500" height="400">
 
-The purpose of this project is to work and use some Data Sciences skills with a fun and personal subject, enjoy it !
+we can clearly distinguish differences between these characters as a human (skin colour, texture, face, ...). The purpose of this project is to work and use some Data Sciences skills with a fun and personal subject in order to allow an AI algorithm to identify these characteristics that we naturally distinguish, **to enjoy it !**
 
  # Main steps :
  - I **download a large dataset using Web Scraping** (character's images with their features, for example "Orc", "Horde", ...). 

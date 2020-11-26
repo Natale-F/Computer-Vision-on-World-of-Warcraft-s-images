@@ -12,9 +12,9 @@ See for yourself some examples!
 
 Gnome (Alliance)             |  Tauren (Horde)
 :-------------------------:|:-------------------------:
-<img src="https://wow.zamimg.com/uploads/screenshots/normal/389945-gnome.jpg" width="250" height="250">  |  <img src="https://wow.zamimg.com/uploads/screenshots/normal/858396-tauren.jpg" width="250" height="250"> 
-:Human (Alliance):|:Orc (Horde):
-<img src="https://wow.zamimg.com/uploads/screenshots/normal/427531-humain.jpg" width="250" height="250"> | <img src="https://wow.zamimg.com/uploads/screenshots/normal/438665-orc.jpg" width="250" height="250">
+<img src="https://wow.zamimg.com/uploads/screenshots/normal/389945-gnome.jpg" width="300" height="300">  |  <img src="https://wow.zamimg.com/uploads/screenshots/normal/858396-tauren.jpg" width="300" height="300"> 
+Human (Alliance)             |   Orc (Horde)        
+<img src="https://wow.zamimg.com/uploads/screenshots/normal/427531-humain.jpg" width="300" height="300"> | <img src="https://wow.zamimg.com/uploads/screenshots/normal/438665-orc.jpg" width="300" height="300">
 
 The purpose of this project is to work and use some Data Sciences skills with a fun and personal subject, enjoy it !
 

@@ -8,6 +8,14 @@ How did I realise that I could do something with this data ?
 
 See for yourself some examples!
 
+
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="https://wow.zamimg.com/uploads/screenshots/normal/389945-gnome.jpg" width="200" height="200">  |  <img src="https://wow.zamimg.com/uploads/screenshots/normal/858396-tauren.jpg" width="200" height="200">
+
+
+
 <img src="https://wow.zamimg.com/uploads/screenshots/normal/389945-gnome.jpg" width="200" height="200">
 <img src="https://wow.zamimg.com/uploads/screenshots/normal/858396-tauren.jpg" width="200" height="200">
 <img src="https://wow.zamimg.com/uploads/screenshots/normal/427531-humain.jpg" width="200" height="200">

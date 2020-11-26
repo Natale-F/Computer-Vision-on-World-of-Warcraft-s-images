@@ -8,16 +8,10 @@ How did I realise that I could do something with this data ?
 
 See for yourself some examples!
 
-<img src="https://wow.zamimg.com/uploads/screenshots/normal/389945-gnome.jpg" width="50" height="50">
-
-![alt text](https://wow.zamimg.com/uploads/screenshots/normal/389945-gnome.jpg width="50" height="50")
-![alt text](https://wow.zamimg.com/uploads/screenshots/normal/858396-tauren.jpg)
-
-
-There is clearly a difference between these two images, the size of the characters, their colours, the texture of their skins.
-
-![alt text](https://wow.zamimg.com/uploads/screenshots/normal/427531-humain.jpg)
-![alt text](https://wow.zamimg.com/uploads/screenshots/normal/438665-orc.jpg)
+<img src="https://wow.zamimg.com/uploads/screenshots/normal/389945-gnome.jpg" width="200" height="200">
+<img src="https://wow.zamimg.com/uploads/screenshots/normal/858396-tauren.jpg" width="200" height="200">
+<img src="https://wow.zamimg.com/uploads/screenshots/normal/427531-humain.jpg" width="200" height="200">
+<img src="https://wow.zamimg.com/uploads/screenshots/normal/438665-orc.jpg" width="200" height="200">
 
 The purpose of this project is to work and use some Data Sciences skills with a fun and personal subject, enjoy it !
 

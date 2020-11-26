@@ -16,7 +16,7 @@ Gnome (Alliance)             |  Tauren (Horde)
 
 Human (Alliance)             |   Orc (Horde)
 :-------------------------:|:-------------------------:
-<img src="https://wow.zamimg.com/uploads/screenshots/normal/427531-humain.jpg" width="400" height="400"> | <img src="https://wow.zamimg.com/uploads/screenshots/normal/438665-orc.jpg" width="400" height="500">
+<img src="https://wow.zamimg.com/uploads/screenshots/normal/427531-humain.jpg" width="500" height="400"> | <img src="https://wow.zamimg.com/uploads/screenshots/normal/438665-orc.jpg" width="500" height="400">
 
 The purpose of this project is to work and use some Data Sciences skills with a fun and personal subject, enjoy it !
 

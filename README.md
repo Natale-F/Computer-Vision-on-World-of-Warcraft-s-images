@@ -10,7 +10,7 @@ See for yourself some examples!
 
 
 
-Gnome  |  Tauren | Human | Orc
+Alliance             |  Horde
 :-------------------------:|:-------------------------:
 <img src="https://wow.zamimg.com/uploads/screenshots/normal/389945-gnome.jpg" width="250" height="250">  |  <img src="https://wow.zamimg.com/uploads/screenshots/normal/858396-tauren.jpg" width="250" height="250"> 
 :-------------------------:|:-------------------------:

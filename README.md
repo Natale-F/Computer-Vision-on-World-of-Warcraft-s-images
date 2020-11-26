@@ -7,6 +7,9 @@ While wandering on the wow website I realized that an important number of images
 How did I realise that I could do something with this data ? 
 
 See for yourself some examples!
+
+<img src="https://wow.zamimg.com/uploads/screenshots/normal/389945-gnome.jpg" width="50" height="50">
+
 ![alt text](https://wow.zamimg.com/uploads/screenshots/normal/389945-gnome.jpg width="50" height="50")
 ![alt text](https://wow.zamimg.com/uploads/screenshots/normal/858396-tauren.jpg)
 

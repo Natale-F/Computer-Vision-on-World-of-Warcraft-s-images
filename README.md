@@ -4,3 +4,5 @@ Firstly I download a large dataset using Web Scraping (character's images with a
 
 
 **Link DATA :** https://drive.google.com/drive/folders/1jQmVFVDiBfFnWIGnOfJNonF2-bA6xQS5?usp=sharing
+
+![alt text](https://upload.wikimedia.org/wikipedia/fr/thumb/e/e3/World_of_Warcraft_Logo.png/1920px-World_of_Warcraft_Logo.png)

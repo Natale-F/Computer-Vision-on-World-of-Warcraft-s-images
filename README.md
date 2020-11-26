@@ -14,6 +14,16 @@ The purpose of this project is to work and use some Data Sciences skills with a 
       One of the 2 downloads databse can be download **here :** https://drive.google.com/drive/folders/1jQmVFVDiBfFnWIGnOfJNonF2-bA6xQS5?usp=sharing
 
 
+
+https://wow.zamimg.com/uploads/screenshots/normal/214451-gnome.jpg
+
+https://wow.zamimg.com/uploads/screenshots/normal/858396-tauren.jpg
+
+https://wow.zamimg.com/uploads/screenshots/normal/427531-humain.jpg
+
+https://wow.zamimg.com/uploads/screenshots/normal/438665-orc.jpg
+
+
 **Link DATA :** 
 
 test :

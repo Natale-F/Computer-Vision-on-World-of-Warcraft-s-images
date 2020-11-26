@@ -15,13 +15,13 @@ The purpose of this project is to work and use some Data Sciences skills with a 
 
 
 
-https://wow.zamimg.com/uploads/screenshots/normal/214451-gnome.jpg
+![alt text](https://wow.zamimg.com/uploads/screenshots/normal/214451-gnome.jpg)
 
-https://wow.zamimg.com/uploads/screenshots/normal/858396-tauren.jpg
+![alt text](https://wow.zamimg.com/uploads/screenshots/normal/858396-tauren.jpg)
 
-https://wow.zamimg.com/uploads/screenshots/normal/427531-humain.jpg
+![alt text](https://wow.zamimg.com/uploads/screenshots/normal/427531-humain.jpg)
 
-https://wow.zamimg.com/uploads/screenshots/normal/438665-orc.jpg
+![alt text](https://wow.zamimg.com/uploads/screenshots/normal/438665-orc.jpg)
 
 
 **Link DATA :** 

@@ -1,8 +1,14 @@
 # Computer Vision on World of Warcraft's images
+
+![alt text](https://upload.wikimedia.org/wikipedia/fr/thumb/e/e3/World_of_Warcraft_Logo.png/1920px-World_of_Warcraft_Logo.png)
+
 In this this project I work on World of Warcraft images. 
 Firstly I download a large dataset using Web Scraping (character's images with annotations, for example "Orc", "Horde", ...). I'm currently working on this project and the main goal is to practice Machine Learning and Deep Learning !
 
 
 **Link DATA :** https://drive.google.com/drive/folders/1jQmVFVDiBfFnWIGnOfJNonF2-bA6xQS5?usp=sharing
 
-![alt text](https://upload.wikimedia.org/wikipedia/fr/thumb/e/e3/World_of_Warcraft_Logo.png/1920px-World_of_Warcraft_Logo.png)
+test :
+ - 
+ - 
+ -e 

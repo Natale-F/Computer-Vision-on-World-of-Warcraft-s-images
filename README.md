@@ -29,7 +29,7 @@ We can clearly distinguish differences between these characters as a human (skin
     - "image_download.ipynb" use the previous DataFrame to retrives more informations about these players and store character's images.
       One of the 2 downloads database can be download **here :** https://drive.google.com/drive/folders/1jQmVFVDiBfFnWIGnOfJNonF2-bA6xQS5?usp=sharing
  - **Data formatting** prepares the downloaded data and formats it in a format useful for machine learning. 
-    - "data_extracting.ipynb" : prepares the image information for the 2 previously downloaded bases and saves it in csv documents.
+    - "data_extracting.ipynb" : prepares the "labels information" for the 2 previously downloaded bases and saves it in csv documents.
 
 
 

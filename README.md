@@ -2,8 +2,8 @@
 
 ![alt text](https://upload.wikimedia.org/wikipedia/fr/4/42/World_of_Warcraft_Shadowlands_Logo.png)
 
-Being a world of warcraft player for many years and recently graduated with a Master's degree in Applied Mathematics, Statistics and Data Science. I was wondering on what subject I could do a project. 
-While wandering on the wow website I realized that an important number of images were available and that it would be possible to use my knowledge of the game as well as my professional skills to realize a project of artificial intelligence from these images.
+Being a World of Warcraft player for many years and recently graduated with a Master's degree in Applied Mathematics, Statistics and Data Science. I was wondering on what subject I could do a project. 
+While wandering on the WoW website I realized that an important number of images were available and that it would be possible to use my knowledge of the game as well as my professional skills to realize a project of Artificial Intelligence from these images.
 
 How did I realise that I could do something with this data ? 
 
@@ -19,7 +19,7 @@ Human (Alliance)             |   Orc (Horde)
 :-------------------------:|:-------------------------:
 <img src="https://wow.zamimg.com/uploads/screenshots/normal/427531-humain.jpg" width="500" height="400"> | <img src="https://wow.zamimg.com/uploads/screenshots/normal/438665-orc.jpg" width="500" height="400">
 
-We can clearly distinguish differences between these characters as a human (skin colour, texture, face, ...). The purpose of this project is to work and use some Data Sciences skills with a fun and personal subject in order to allow an AI algorithm to identify these characteristics that we naturally distinguish.
+We can clearly distinguish differences between these characters as a human (skin colour, texture, face, size, ...). The purpose of this project is to work and use some Data Sciences skills with a fun and personal subject in order to allow an AI algorithm to identify these characteristics that we naturally distinguish.
 
 **Enjoy it !**
 

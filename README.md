@@ -30,11 +30,13 @@ We can clearly distinguish differences between these characters as a human (skin
     - "image_download.ipynb" use the previous DataFrame to retrives more informations about these players and store character's images.
       One of the 2 downloads database can be download **here :** https://drive.google.com/drive/folders/1jQmVFVDiBfFnWIGnOfJNonF2-bA6xQS5?usp=sharing
 
- - **Data formatting** prepares the downloaded data and formats it in a format useful for machine learning. 
-    <img src="https://scontent-mrs2-2.xx.fbcdn.net/v/t1.15752-9/129598791_1234404036944097_2302524932097460726_n.png?_nc_cat=102&ccb=2&_nc_sid=ae9488&_nc_ohc=gfD077toyaEAX8-j65e&_nc_ht=scontent-mrs2-2.xx&oh=95c6de9e868dba5d0b5def9ada468024&oe=5FEAEEDF">
-    
+ - **Data formatting** prepares the downloaded data and formats it in a format useful for machine learning.    
     - "data_extracting.ipynb" : prepares the "labels information" for the 2 previously downloaded bases and saves it in csv documents
     - "prepare_directory_structure.ipynb" : moves the images from the "without background" database into an architecture easily usable for a classification task using keras       tools.
+    
+    
+    
+    <img src="https://scontent-mrs2-2.xx.fbcdn.net/v/t1.15752-9/129598791_1234404036944097_2302524932097460726_n.png?_nc_cat=102&ccb=2&_nc_sid=ae9488&_nc_ohc=gfD077toyaEAX8-j65e&_nc_ht=scontent-mrs2-2.xx&oh=95c6de9e868dba5d0b5def9ada468024&oe=5FEAEEDF">
       
 
 

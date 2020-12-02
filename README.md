@@ -25,6 +25,7 @@ We can clearly distinguish differences between these characters as a human (skin
 
  # Main steps :
  - **Download a large dataset using Web Scraping** (character's images with their features, for example "Orc", "Horde", ...). 
+ 
     <img src="https://miro.medium.com/max/1200/0*tvUoZ_MhMZQ69t5e.png">
     - "recovery_players_names.ipynb" retrieves the names and servers of the 50 000 best EU players (items level) and store these informations in a DataFrame
     - "image_download.ipynb" use the previous DataFrame to retrives more informations about these players and store character's images.

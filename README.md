@@ -29,7 +29,7 @@ We can clearly distinguish differences between these characters as a human (skin
     - "image_download.ipynb" use the previous DataFrame to retrives more informations about these players and store character's images.
       One of the 2 downloads database can be download **here :** https://drive.google.com/drive/folders/1jQmVFVDiBfFnWIGnOfJNonF2-bA6xQS5?usp=sharing
       
-      <img src="https://miro.medium.com/max/1200/0*tvUoZ_MhMZQ69t5e." width="500" height="400">png
+      <img src="https://miro.medium.com/max/1200/0*tvUoZ_MhMZQ69t5e.png" width="500" height="400">
  - **Data formatting** prepares the downloaded data and formats it in a format useful for machine learning. 
     - "data_extracting.ipynb" : prepares the "labels information" for the 2 previously downloaded bases and saves it in csv documents
     - "prepare_directory_structure.ipynb" : moves the images from the "without background" database into an architecture easily usable for a classification task using keras       tools.

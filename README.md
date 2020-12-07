@@ -30,16 +30,19 @@ We can clearly distinguish differences between these characters as a human (skin
     
     - "recovery_players_names.ipynb" retrieves the names and servers of the 50 000 best EU players (items level) and store these informations in a DataFrame
     - "image_download.ipynb" use the previous DataFrame to retrives more informations about these players and store character's images.
-      One of the 2 downloads database can be download **here :** https://drive.google.com/drive/folders/1jQmVFVDiBfFnWIGnOfJNonF2-bA6xQS5?usp=sharing
+       The 2 downloads database can be download from Google Drive : https://drive.google.com/drive/folders/1jQmVFVDiBfFnWIGnOfJNonF2-bA6xQS5?usp=sharing
 
  - **Data formatting** prepares the downloaded data and formats it in a format useful for machine learning.    
     - "data_extracting.ipynb" : prepares the "labels information" for the 2 previously downloaded bases and saves it in csv documents
-    - "prepare_directory_structure.ipynb" : moves the images from the "without background" database into an architecture easily usable for a classification task using keras       tools. 
+    - "prepare_directory_structure.ipynb" : moves the images from the "with background" database into an architecture easily usable for a binary classification task (whether a character comes from the horde or from the alliance) into an architecture easily usable for a classification task using keras tools
     
-    <img src="https://scontent-mrs2-2.xx.fbcdn.net/v/t1.15752-9/129598791_1234404036944097_2302524932097460726_n.png?_nc_cat=102&ccb=2&_nc_sid=ae9488&_nc_ohc=gfD077toyaEAX8-j65e&_nc_ht=scontent-mrs2-2.xx&oh=95c6de9e868dba5d0b5def9ada468024&oe=5FEAEEDF">
+    <img src="https://scontent-mrs2-2.xx.fbcdn.net/v/t1.15752-9/130465760_2792962437619996_1499920078488726211_n.png?_nc_cat=108&ccb=2&_nc_sid=ae9488&_nc_ohc=_ixeKiaQ4PEAX8PI8fk&_nc_ht=scontent-mrs2-2.xx&oh=668efa5fd9223638089f5461438f7b2a&oe=5FF5B297">
    
- - **Machine Learning tasks** : try some AI algorithms on these data !
-    - "...." : simple binary classification task --> find the faction of the character !
+   - "resize_images.ipynb" : resize the images of the base "With_background" from size (1200, 1600) to (800, 700).
+   
+   
+ - **Machine Learning** : try some Machine Learning algorithms on these data !
+    - "baseline_model_and_problematic_images.ipynb" : This notebook helps to find an interval in which useful binary classification patterns (whether a character belongs to the horde or the alliance) will be found. This gives you an idea of the achievable performance of a model for this task before you even start coding!
     
     
       

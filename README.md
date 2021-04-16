@@ -5,7 +5,7 @@
 Being a World of Warcraft player for many years and recently graduated with a Master's degree in Applied Mathematics, Statistics and Data Science. I was wondering on what subject I could do a project. 
 While wandering on the WoW website I realized that an important number of images were available and that it would be possible to use my knowledge of the game as well as my professional skills to realize a project of Artificial Intelligence from these images.
 
-How did I realise that I could do something with this data ? 
+How did I realise that I could do something with these data ? 
 
 See for yourself some examples!
 

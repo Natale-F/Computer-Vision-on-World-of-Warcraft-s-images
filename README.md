@@ -42,8 +42,8 @@ We can clearly distinguish differences between these characters as a human (skin
    
    
  - **Machine Learning** : try some Machine Learning algorithms on these data !
-    - "baseline_model_and_problematic_images.ipynb" : This notebook helps to find an interval in which useful binary classification patterns (whether a character belongs to the horde or the alliance) will be found. This gives you an idea of the achievable performance of a model for this task before you even start coding!
-    
+    - "baseline_model_and_problematic_images.ipynb" : this notebook helps to find an interval in which useful binary classification patterns (whether a character belongs to the horde or the alliance) will be found. This gives you an idea of the achievable performance of a model for this task before you even start coding!
+    - "MLP_classifier.ipynb" : this notebook presents a first Neural Network model using Multi-Layer Perceptron, some explanations are given, the objective being especially to have a first model different from the "dumb" models.
     
       
 
